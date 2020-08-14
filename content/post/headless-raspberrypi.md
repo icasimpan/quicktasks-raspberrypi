@@ -24,3 +24,5 @@ network={
 4. Use the disk to boot the pi.
 
 More details in https://desertbot.io/blog/headless-raspberry-pi-4-ssh-wifi-setup
+
+Additional Info: https://www.raspberrypi.org/blog/a-security-update-for-raspbian-pixel/
