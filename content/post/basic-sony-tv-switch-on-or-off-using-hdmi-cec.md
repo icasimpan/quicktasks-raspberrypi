@@ -53,3 +53,10 @@ Get status:
 ```
 echo 'pow 0.0.0.0' | cec-client -s d 1
 ```
+
+Explore:
+```
+echo 'h' | cec-client -s -d 1
+```
+
+See details in https://pimylifeup.com/raspberrypi-hdmi-cec/
