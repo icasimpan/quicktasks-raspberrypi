@@ -17,4 +17,4 @@ with some important information regarding low voltage:
 * 0x50000 - throttled at least once due to low voltage
 * 0x50005 - currently throttled due to low voltage
 
-Some more interesting information in https://raspberrypi.stackexchange.com/questions/57963/what-does-the-lightning-bolt-mean
+Some more interesting information in https://raspberrypi.stackexchange.com/questions/57963/what-does-the-lightning-bolt-mean and https://www.raspberrypi.org/blog/thermal-testing-raspberry-pi-4
