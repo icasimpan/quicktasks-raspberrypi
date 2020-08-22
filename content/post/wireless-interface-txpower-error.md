@@ -37,3 +37,5 @@ iwconfig wlan0 txpower auto
 ```
 First attempt had the same error as using "on" but after runing it the second time, no more errors shown.
 Checking on 'ifconfig' now shows the wlan0 interface.
+
+Some useful tidbits in https://raspberrypi.stackexchange.com/questions/43720/disable-wifi-wlan0-on-pi-3
