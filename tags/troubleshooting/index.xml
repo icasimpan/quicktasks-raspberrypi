@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>troubleshooting on Raspberrypi | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/troubleshooting/</link>
+    <description>Recent content in troubleshooting on Raspberrypi | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-raspberrypi/tags/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wireless Interface TXPower Error</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/wireless-interface-txpower-error/</link>
+      <pubDate>Sun, 23 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/wireless-interface-txpower-error/</guid>
+      <description>I turned-off my built-in wireless network interface using the command:
+iwconfig wlan0 txpower off  Howerver, I can no longer turn-it back on. Logic says just change &amp;ldquo;off&amp;rdquo; to &amp;ldquo;on&amp;rdquo; but instead, I get this error.
+root@raspberrypi:/home/pi# iwconfig wlan0 txpower on Error for wireless request &amp;quot;Set Tx Power&amp;quot; (8B27) : GET failed on device wlan0 ; Input/output error.  Current status of the wireless interface looks like:
+root@raspberrypi:/home/pi# iwconfig wlan0 wlan0 IEEE 802.</description>
+    </item>
+    
+    <item>
+      <title>Check Low Voltage Indication in Raspberry PI</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/check-low-voltage-in-raspberrypi/</link>
+      <pubDate>Mon, 17 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/check-low-voltage-in-raspberrypi/</guid>
+      <description>When a pi gets under voltage below 4.63V (+/-5%), a thunderbolt icon is shown in the monitor like in https://www.raspberrypi.org/documentation/configuration/warning-icons.md It will then get throttled to get back to desired voltage.
+From command line, here&amp;rsquo;s what you can use to check:
+vcgencmd get_throttled  with some important information regarding low voltage:
+ 0x50000 - throttled at least once due to low voltage 0x50005 - currently throttled due to low voltage  Some more interesting information in https://raspberrypi.</description>
+    </item>
+    
+  </channel>
+</rss>

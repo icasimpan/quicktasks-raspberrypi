@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>txpower-error on Raspberrypi | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/txpower-error/</link>
+    <description>Recent content in txpower-error on Raspberrypi | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-raspberrypi/tags/txpower-error/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wireless Interface TXPower Error</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/wireless-interface-txpower-error/</link>
+      <pubDate>Sun, 23 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/wireless-interface-txpower-error/</guid>
+      <description>I turned-off my built-in wireless network interface using the command:
+iwconfig wlan0 txpower off  Howerver, I can no longer turn-it back on. Logic says just change &amp;ldquo;off&amp;rdquo; to &amp;ldquo;on&amp;rdquo; but instead, I get this error.
+root@raspberrypi:/home/pi# iwconfig wlan0 txpower on Error for wireless request &amp;quot;Set Tx Power&amp;quot; (8B27) : GET failed on device wlan0 ; Input/output error.  Current status of the wireless interface looks like:
+root@raspberrypi:/home/pi# iwconfig wlan0 wlan0 IEEE 802.</description>
+    </item>
+    
+  </channel>
+</rss>

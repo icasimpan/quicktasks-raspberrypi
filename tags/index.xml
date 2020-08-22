@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Raspberrypi | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/</link>
+    <description>Recent content in Tags on Raspberrypi | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 00:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-raspberrypi/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>raspberrypi</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/raspberrypi/</link>
+      <pubDate>Sun, 23 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/raspberrypi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>troubleshooting</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/troubleshooting/</link>
+      <pubDate>Sun, 23 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>txpower-error</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/txpower-error/</link>
+      <pubDate>Sun, 23 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/txpower-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wireless-interface</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/wireless-interface/</link>
+      <pubDate>Sun, 23 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/wireless-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low-voltage</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/low-voltage/</link>
+      <pubDate>Mon, 17 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/low-voltage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vcgencmd</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/vcgencmd/</link>
+      <pubDate>Mon, 17 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/vcgencmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hdmi-cec</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/hdmi-cec/</link>
+      <pubDate>Sat, 15 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/hdmi-cec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tv</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/tv/</link>
+      <pubDate>Sat, 15 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>headless</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/headless/</link>
+      <pubDate>Fri, 14 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/headless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setup</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/setup/</link>
+      <pubDate>Fri, 14 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>berryserver</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/berryserver/</link>
+      <pubDate>Mon, 10 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/berryserver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/ubuntu/</link>
+      <pubDate>Mon, 10 Aug 2020 00:20:25 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-raspberrypi/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
